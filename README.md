@@ -19,3 +19,4 @@
 | 序号 | 名称 | 描述 | 链接 | 备注 |
 |--|:--|:--|:--|:--|
 | 1 | 大屏 | flask 大屏显示数据 | https://github.com/TurboWay/big_screen | 新的数据需要按照模板拼装数据格式|
+| 2 | 数据分析 | 数据分析示例 | https://github.com/TurboWay/bigdata_analyse | |
