@@ -21,3 +21,4 @@
 | 1 | 大屏 | flask 大屏显示数据 | https://github.com/TurboWay/big_screen | 新的数据需要按照模板拼装数据格式|
 | 2 | 数据分析 | 数据分析示例 | https://github.com/TurboWay/bigdata_analyse | |
 | 3 | web 图表显示 | flask 显示 | https://github.com/TurboWay/ironman | 各种图表示例 |
+| 4 | demo | python demo | https://github.com/TurboWay/pydemo | |
