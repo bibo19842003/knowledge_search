@@ -24,3 +24,9 @@
 | 4 | demo | python demo | https://github.com/TurboWay/pydemo | |
 | 5 | blog | blog | https://github.com/TurboWay/izone | |
 | 6 | idc | django idc manage | https://github.com/Wenvki/django-idcops.git | |
+
+## Tools
+
+| 序号 | 名称 | 描述 | 链接 | 备注 |
+|--|:--|:--|:--|:--|
+| 1 | pycharm | pycharm 2022.2.1 激活 | https://www.exception.site/essay/how-to-free-use-pycharm-2020 | 激活 |
