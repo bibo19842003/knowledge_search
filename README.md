@@ -23,3 +23,4 @@
 | 3 | web 图表显示 | flask 显示 | https://github.com/TurboWay/ironman | 各种图表示例 |
 | 4 | demo | python demo | https://github.com/TurboWay/pydemo | |
 | 5 | blog | blog | https://github.com/TurboWay/izone | |
+| 6 | idc | django idc manage | https://github.com/Wenvki/django-idcops.git | |
