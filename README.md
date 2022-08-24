@@ -11,6 +11,7 @@
 | 5 | pytorch 历史安装命令 | 官网 | https://pytorch.org/get-started/previous-versions/ | |
 | 6 | pypi 官网 | pypi 官网 | https://pypi.org/ | |
 | 7 | autodl 计算云 | 计算云租赁 | https://www.autodl.com/home | |
+| 8 | python 非官方 windows 安装包 | 非官方的 windows 安装包 | http://www.lfd.uci.edu/~gohlke/pythonlibs/ | |
 
 ## Knowledge
 | 序号 | 名称 | 描述 | 链接 | 备注 |
