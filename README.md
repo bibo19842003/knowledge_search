@@ -12,7 +12,10 @@
 | 6 | pypi 官网 | pypi 官网 | https://pypi.org/ | |
 | 7 | autodl 计算云 | 计算云租赁 | https://www.autodl.com/home | |
 
-## knowledge
+## Knowledge
+| 序号 | 名称 | 描述 | 链接 | 备注 |
+|--|:--|:--|:--|:--|
+| 1 | python cheat sheet | python cheat sheet | https://www.datacamp.com/cheat-sheet/python-seaborn-cheat-sheet |  |
 
 ## Project
 
