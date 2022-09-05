@@ -1,7 +1,6 @@
 # knowledge_search
 
 ## Search
-
 | 序号 | 名称 | 描述 | 链接 | 备注 |
 |--|:--|:--|:--|:--|
 | 1 | pypi 清华镜像 | pip镜像安装 | https://mirrors.tuna.tsinghua.edu.cn/help/pypi/ | |
@@ -12,6 +11,9 @@
 | 6 | pypi 官网 | pypi 官网 | https://pypi.org/ | |
 | 7 | autodl 计算云 | 计算云租赁 | https://www.autodl.com/home | |
 | 8 | python 非官方 windows 安装包 | 非官方的 windows 安装包 | http://www.lfd.uci.edu/~gohlke/pythonlibs/ | |
+| 9 | sklearn 官网 英文 | sklearn 官网 英文 | https://scikit-learn.org/stable/ | |
+| 10 | sklearn 中文文档 | sklearn 中文文档 | https://sklearn.apachecn.org/ | |
+| 11 | sklearn api | sklearn api | https://scikit-learn.org/stable/modules/classes.html# | |
 
 ## Knowledge
 | 序号 | 名称 | 描述 | 链接 | 备注 |
