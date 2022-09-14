@@ -1,4 +1,4 @@
-# knowledge_search
+# Knowledge_Search
 
 ## Search
 | 序号 | 名称 | 描述 | 链接 | 备注 |
@@ -14,6 +14,8 @@
 | 9 | sklearn 官网 英文 | sklearn 官网 英文 | https://scikit-learn.org/stable/ | |
 | 10 | sklearn 中文文档 | sklearn 中文文档 | https://sklearn.apachecn.org/ | |
 | 11 | sklearn api | sklearn api | https://scikit-learn.org/stable/modules/classes.html# | |
+| 12 | rich | python 终端显示 | https://github.com/Textualize/rich | |
+
 
 ## Knowledge
 | 序号 | 名称 | 描述 | 链接 | 备注 |
@@ -25,7 +27,6 @@
 
 
 ## Project
-
 | 序号 | 名称 | 描述 | 链接 | 备注 |
 |--|:--|:--|:--|:--|
 | 1 | 大屏 | flask 大屏显示数据 | https://github.com/TurboWay/big_screen | 新的数据需要按照模板拼装数据格式|
@@ -35,8 +36,8 @@
 | 5 | blog | blog | https://github.com/TurboWay/izone | |
 | 6 | idc | django idc manage | https://github.com/Wenvki/django-idcops.git | |
 
-## Tools
 
+## Tools
 | 序号 | 名称 | 描述 | 链接 | 备注 |
 |--|:--|:--|:--|:--|
 | 1 | pycharm | pycharm 2022.2.1 激活 | https://www.exception.site/essay/how-to-free-use-pycharm-2020 | 激活 |
