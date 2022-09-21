@@ -15,6 +15,7 @@
 | 10 | sklearn 中文文档 | sklearn 中文文档 | https://sklearn.apachecn.org/ | |
 | 11 | sklearn api | sklearn api | https://scikit-learn.org/stable/modules/classes.html# | |
 | 12 | rich | python 终端显示 | https://github.com/Textualize/rich | |
+| 13 | Texlive 镜像 | Texlive 历史版本 | http://ftp.math.utah.edu/pub/tex/historic/systems/texlive/ | |
 
 
 ## Knowledge
