@@ -44,3 +44,10 @@
 |--|:--|:--|:--|:--|
 | 1 | pycharm | pycharm 2022.2.1 激活 | https://www.exception.site/essay/how-to-free-use-pycharm-2020 | 激活 |
 | 2 | 双系统 | win11 安装 ubuntu 双系统| https://blog.csdn.net/qq_43406819/article/details/104002384 |  |
+
+
+## Data
+| 序号 | 名称 | 描述 | 链接 | 备注 |
+|--|:--|:--|:--|:--|
+| 1 | 国家统计局数据 | 国家统计局数据 | https://data.stats.gov.cn/easyquery.htm |  |
+
