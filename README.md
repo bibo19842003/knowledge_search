@@ -17,6 +17,15 @@
 | 12 | rich | python 终端显示 | https://github.com/Textualize/rich | |
 | 13 | Texlive 镜像 | Texlive 历史版本 | http://ftp.math.utah.edu/pub/tex/historic/systems/texlive/ | |
 | 14 | icons | fontawesome free | https://fontawesome.com/icons?d=gallery&p=1&m=free | |
+| 15 | 十分钟邮箱 |  | https://10minutemail.org/?lang=zh-cn | |
+| 16 | 十分钟邮箱 |  | https://tenminutesmail.net/zh | |
+| 17 | 十分钟邮箱 |  | https://zhuanlan.zhihu.com/p/509216144 | |
+| 18 | 十分钟邮箱 |  | https://www.tempmail.vip/zh | |
+| 19 | 十分钟邮箱 |  | https://zhuanlan.zhihu.com/p/536824166 | |
+| 20 | 十分钟邮箱 |  | https://blog.csdn.net/TTFCT/article/details/126743639 | |
+| 21 | 十分钟邮箱 |  | http://24mail.chacuo.net/ | |
+| 22 | 十分钟邮箱 |  | https://linshiyou.com/ | |
+| 23 | 十分钟邮箱 |  | https://rootsh.com/?lang=cn | |
 
 
 ## Knowledge
