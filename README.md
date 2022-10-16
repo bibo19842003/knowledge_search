@@ -35,6 +35,7 @@
 | 2 | sklearn 视频教程 | sklearn 视频教程 | https://www.bilibili.com/video/BV1xW411Y7Qd?spm_id_from=333.337.search-card.all.click | 莫烦Python |
 | 3 | sklearn 视频教程 | sklearn 视频教程 | https://www.bilibili.com/video/BV11k4y1R7Wj?p=1 | 馨馨健康快乐地活到120岁 |
 | 4 | sklearn 视频教程 | sklearn 视频教程 | https://www.bilibili.com/video/BV1vJ41187hk?spm_id_from=333.337.search-card.all.click | 菜菜TsaiTsai |
+| 5 | 爬虫 视频教程 | 爬虫 视频教程 | https://www.bilibili.com/video/BV1rv4y1K7yV/?p=2&spm_id_from=pageDriver |  |
 
 
 ## Project
