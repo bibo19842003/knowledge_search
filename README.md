@@ -50,6 +50,7 @@
 | 4 | demo | python demo | https://github.com/TurboWay/pydemo | |
 | 5 | blog | blog | https://github.com/TurboWay/izone | |
 | 6 | idc | django idc manage | https://github.com/Wenvki/django-idcops.git | |
+| 7 | wenet | 离线语音识别 | https://github.com/wenet-e2e/wenet | |
 
 
 ## Tools
