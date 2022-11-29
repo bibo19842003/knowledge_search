@@ -28,7 +28,8 @@
 | 23 | 十分钟邮箱 |  | https://rootsh.com/?lang=cn | |
 | 24 | chromedriver 下载 | 官网 | http://chromedriver.storage.googleapis.com/index.html | |
 | 25 | chromedriver 下载 | 镜像 | http://npm.taobao.org/mirrors/chromedriver/ | |
-| 25 | nvidia 安装 | 安装 | https://blog.csdn.net/qq_42341984/article/details/110326344 | |
+| 26 | nvidia 安装 | 安装 | https://blog.csdn.net/qq_42341984/article/details/110326344 | |
+| 27 | pip 缓存位置 | 设置 pip 缓存位置 | https://blog.csdn.net/weixin_43896318/article/details/115771621 | |
 
 
 ## Knowledge
