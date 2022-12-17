@@ -31,6 +31,7 @@
 | 26 | nvidia 安装 | 安装 | https://blog.csdn.net/qq_42341984/article/details/110326344 | |
 | 27 | pip 缓存位置 | 设置 pip 缓存位置 | https://blog.csdn.net/weixin_43896318/article/details/115771621 | |
 | 28 | python 非官方安装包 | 非官方 | https://www.lfd.uci.edu/~gohlke/pythonlibs/ | |
+| 29 | proxy 网站 | proxy ip  | https://www.douyadaili.com/api/ | |
 
 
 ## Knowledge
