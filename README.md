@@ -32,6 +32,7 @@
 | 27 | pip 缓存位置 | 设置 pip 缓存位置 | https://blog.csdn.net/weixin_43896318/article/details/115771621 | |
 | 28 | python 非官方安装包 | 非官方 | https://www.lfd.uci.edu/~gohlke/pythonlibs/ | |
 | 29 | proxy 网站 | proxy ip  | https://www.douyadaili.com/api/ | |
+| 30 | 图标格式转换 | 图标格式转换  | https://www.aconvert.com/cn/icon/jpg-to-ico/ | |
 
 
 ## Knowledge
