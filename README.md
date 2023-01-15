@@ -33,6 +33,7 @@
 | 28 | python 非官方安装包 | 非官方 | https://www.lfd.uci.edu/~gohlke/pythonlibs/ | |
 | 29 | proxy 网站 | proxy ip  | https://www.douyadaili.com/api/ | |
 | 30 | 图标格式转换 | 图标格式转换  | https://www.aconvert.com/cn/icon/jpg-to-ico/ | |
+| 31 | win10 关闭兼容性遥测 | | https://answers.microsoft.com/zh-hans/windows/forum/all/%E5%BE%AE%E8%BD%AF%E5%85%BC%E5%AE%B9%E6%80%A7/048b007a-47cb-4289-9c9f-4ec364b7ea93 | |
 
 
 ## Knowledge
