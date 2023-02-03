@@ -60,6 +60,7 @@
 | 7 | wenet | 离线语音识别 | https://github.com/wenet-e2e/wenet | |
 | 8 | django-blog| django-blog | https://github.com/jhao104/django-blog | |
 | 9 | django-blog| django-blog | https://github.com/liangliangyy/DjangoBlog | |
+| 10 | 图片处理| 网站 去 水印等 | https://github.com/Sanster/lama-cleaner | |
 
 
 ## Tools
