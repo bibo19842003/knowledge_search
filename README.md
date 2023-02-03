@@ -58,6 +58,8 @@
 | 5 | blog | blog | https://github.com/TurboWay/izone | |
 | 6 | idc | django idc manage | https://github.com/Wenvki/django-idcops.git | |
 | 7 | wenet | 离线语音识别 | https://github.com/wenet-e2e/wenet | |
+| 8 | django-blog| django-blog | https://github.com/jhao104/django-blog | |
+| 9 | django-blog| django-blog | https://github.com/liangliangyy/DjangoBlog | |
 
 
 ## Tools
