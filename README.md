@@ -61,6 +61,7 @@
 | 8 | django-blog| django-blog | https://github.com/jhao104/django-blog | |
 | 9 | django-blog| django-blog | https://github.com/liangliangyy/DjangoBlog | |
 | 10 | 图片处理| 网站 去 水印等 | https://github.com/Sanster/lama-cleaner | |
+| 11 | 视频下载| you-get | https://github.com/soimort/you-get | |
 
 
 ## Tools
