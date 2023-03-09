@@ -36,6 +36,7 @@
 | 31 | win10 关闭兼容性遥测 | | https://answers.microsoft.com/zh-hans/windows/forum/all/%E5%BE%AE%E8%BD%AF%E5%85%BC%E5%AE%B9%E6%80%A7/048b007a-47cb-4289-9c9f-4ec364b7ea93 | |
 | 32 | 关闭 warning | python  | https://blog.csdn.net/u014090429/article/details/102500661 | |
 | 33 | github加速 | github | https://ghps.cc/ | |
+| 34 | chromedriver | chromedriver | https://registry.npmmirror.com/binary.html?path=chromedriver/ | |
 
 
 ## Knowledge
