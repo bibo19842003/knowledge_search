@@ -38,6 +38,7 @@
 | 33 | github加速 | github | https://ghps.cc/ | |
 | 34 | chromedriver | chromedriver | https://registry.npmmirror.com/binary.html?path=chromedriver/ | |
 | 35 | win 自启动脚本 | win | https://blog.csdn.net/yixinluobo/article/details/112003426 | |
+| 36 | github 镜像 | github | https://www.ooopn.com/tool/github/ | |
 
 
 ## Knowledge
