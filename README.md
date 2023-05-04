@@ -41,6 +41,8 @@
 | 36 | github 镜像 | github | https://www.ooopn.com/tool/github/ | |
 | 37 | conda cuda | conda | https://blog.csdn.net/hacker_NO_007/article/details/127503435 | |
 | 38 | python 配置代理 | python 配置代理 | https://blog.csdn.net/whatday/article/details/112169945 | |
+| 39 | matplotlib 修改默认配色 | matplotlib 修改默认配色 | https://matplotlib.org/stable/users/prev_whats_new/dflt_style_changes.html#colors-in-default-property-cycle | |
+| 40 | matplotlib画图颜色控制 | matplotlib画图颜色控制 | https://blog.csdn.net/CD_Don/article/details/88070453 | |
 
 
 ## Knowledge
