@@ -40,6 +40,7 @@
 | 35 | win 自启动脚本 | win | https://blog.csdn.net/yixinluobo/article/details/112003426 | |
 | 36 | github 镜像 | github | https://www.ooopn.com/tool/github/ | |
 | 37 | conda cuda | conda | https://blog.csdn.net/hacker_NO_007/article/details/127503435 | |
+| 38 | python 配置代理 | python 配置代理 | https://blog.csdn.net/whatday/article/details/112169945 | |
 
 
 ## Knowledge
