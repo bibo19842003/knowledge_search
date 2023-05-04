@@ -55,6 +55,7 @@
 | 5 | 爬虫 视频教程 | 爬虫 视频教程 | https://www.bilibili.com/video/BV1rv4y1K7yV/?p=2&spm_id_from=pageDriver |  |
 | 6 | django vue | django vue 视频教程 | https://www.bilibili.com/video/BV1Be4y1U7h7/?spm_id_from=333.337 |  |
 | 7 | python | python 教程 | https://www.cnblogs.com/wupeiqi/ |  |
+| 8 | 大语言模型 | 大语言模型 | https://www.bilibili.com/video/BV1UG411p7zv/ |  |
 
 
 ## Project
